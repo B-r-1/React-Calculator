@@ -1,0 +1,12 @@
+.bo-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;  
+  color: white;
+}
+
+.bo-container div{
+    background-color: cadetblue;
+}

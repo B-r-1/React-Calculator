@@ -1,0 +1,29 @@
+.calculator{
+     padding: 0;
+    margin: auto;
+    /*display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; */
+    padding: 33px;    
+    background-color: #474a52;
+    box-shadow: 0px 2px 20px 6px rgba(241, 243, 255, 0.1);
+}
+
+.calculator .view{
+}
+
+.calculator .buttons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.calculator .equal-btn div{
+    width: 100%;
+    background-color: coral;
+}
+
+.calculator .clear-btn div{
+    width: 100%;
+    background-color: rgb(110, 109, 108);
+}

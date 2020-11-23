@@ -1,0 +1,8 @@
+.button-key{
+    width: 50px;
+    height: 40px;
+    font-size: 25px;
+    font-family: monospace;    
+    cursor: pointer;
+    border: hidden;
+}
